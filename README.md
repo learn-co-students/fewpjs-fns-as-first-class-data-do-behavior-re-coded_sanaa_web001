@@ -1,4 +1,4 @@
-# JavaScript Functions as First Class Data: Do behavior
+lea# JavaScript Functions as First Class Data: Do behavior
 
 ## Learning Goals
 
